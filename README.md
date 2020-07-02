@@ -1,6 +1,7 @@
-# hackathon
-Build an attendance tracker
-Level 1:The client
+# **hackathon**
+  Build an attendance tracker
+  Level 1:The client
+
 -- Develop a client of ur choice(Android, web app,...)
 -- It should be able to interact with the REST API and mark the attendance
 
