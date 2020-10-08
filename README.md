@@ -1,5 +1,4 @@
 #**hackathon**
-
 **Build an attendance tracker**
 
 **Level 1:The client**
